@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestCartService" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-10-10T18:03:42" hostname="5CD1018GT7" time="0.034">
+  <properties/>
+  <testcase name="deleteProductFromCart()" classname="TestCartService" time="0.028"/>
+  <testcase name="clearCart()" classname="TestCartService" time="0.002"/>
+  <testcase name="addProductToCart()" classname="TestCartService" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
